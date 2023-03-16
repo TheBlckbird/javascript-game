@@ -153,10 +153,10 @@ class Sprite {
             this.position.x = Math.round(this.position.x)
             this.position.y = Math.round(this.position.y)
 
-            if (this.checkCollision(this.currentDirection)) {
-                this.stopMove()
-                return
-            }
+            // if (this.checkCollision(this.currentDirection)) {
+            //     this.stopMove()
+            //     return
+            // }
             // this.checkCollision(this.currentDirection)
 
             this.movingFrames = 10

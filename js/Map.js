@@ -1,7 +1,7 @@
 class Map {
-    backgroundMapImage = "../assets/map.png"
-    foregroundMapImage = "../assets/foreground_map.png"
-    hitboxesImage = "../assets/hitboxes.png"
+    backgroundMapImage = "./assets/map.png"
+    foregroundMapImage = "./assets/foreground_map.png"
+    hitboxesImage = "./assets/hitboxes.png"
 
     constructor(ctx, scale) {
         /**

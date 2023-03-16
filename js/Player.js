@@ -1,7 +1,7 @@
 class Player extends Sprite {
     position = {x: 50, y: 19}
     frameSize = 32
-    imageFile = "../assets/player/mPlayer_ [human].png"
+    imageFile = "./assets/player/mPlayer_ [human].png"
     controls = {
         Up: ["w", "ArrowUp"],
         Down: ["s", "ArrowDown"],
