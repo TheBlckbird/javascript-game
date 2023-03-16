@@ -6,7 +6,7 @@ It has a lot of bugs and collisions aren't really working
 
 # Credit
 
-Assets by [https://analogstudios.itch.io/fantasy](https://analogstudios.itch.io/fantasy)
+Assets by [https://analogstudios.itch.io/](https://analogstudios.itch.io/)
 
 # License
 
