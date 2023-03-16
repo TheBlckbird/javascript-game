@@ -2,7 +2,7 @@
 
 This is a simple javascript game skeleton  
 It has a lot of bugs and collisions aren't really working  
-[You can try it out yourself](theblckbird.github.io/javascript-game)
+[You can try it out yourself](https://theblckbird.github.io/javascript-game)
 
 # Credit
 
